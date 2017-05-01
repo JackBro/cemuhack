@@ -1,2 +1,6 @@
 This is a practical implementation of the notes discussed here:
 http://mudlord.info/blog/2017/05/01/cemu-1-7-5-and-1-74x-notes/
+
+Used tools:
+* MSVC2017
+* x64dbg with the SwissArmyKnife plugin.
